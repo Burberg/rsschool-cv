@@ -42,6 +42,7 @@ Had some experience via online courses.
 # Education
 
 Homel State University
+Courses from udemy platform
 
 
 
