@@ -1,38 +1,50 @@
-Name: Ivan Burdolenko
+# Ivan Burdolenko
 
 
-Adress: Belarus. Homel Region. Rechitsa
-Phone: +375447335327
-E-mail: burdolevich@gmail.com
-GitHub: Burberg
++ Adress: Belarus. Homel Region. Rechitsa
++ Phone: +375447335327
++ E-mail: burdolevich@gmail.com
++ GitHub: Burberg
 
 
-Summary
+# Summary
 
 I used to work as a teacher of English language in school. I think that's a great experience. Unfortunately i hadn't any kind of expirience in IT sphere. But i'm trying to do as much as possible to solve this issue.
 
 
-Skills
+# Skills
 
-*Html
-*CSS
-*JavaScript
-*React
++ Html
++ CSS
++ JavaScript
++ React
 
 
-Code examples:
+# Code examples
+Taken from my old react project:
+```
+import React from 'react';
+import CardBasis from './CardBasis';
+
+const Body = () => {
+    return <CardBasis />;
+};
+
+export default Body;
+```
 
 -
 
-Expirience:
+# Experience
 
--
+Had some experience via online courses.
 
-Education
+# Education
 
 Homel State University
 
 
-English Level
+
+# English level
 
 B1
