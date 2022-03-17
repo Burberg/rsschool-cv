@@ -1,1 +1,1 @@
-https://Burberg.github.io/rsschool-cv/cv
+https://Burberg.github.io/rsschool-cv/
